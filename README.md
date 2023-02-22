@@ -1,6 +1,7 @@
 # three_page_app
 
 A new Flutter project.
+Flutter version 3.7.4
 
 ## Getting Started
 
